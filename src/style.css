@@ -45,7 +45,7 @@
     .buttonSearch{
      background-color: transparent;
      border:0;
-     diplay:flex;
+     display:flex;
      justify-content:center;
      align-items:center;
      cursor:pointer;
